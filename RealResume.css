@@ -1,0 +1,33 @@
+h1 {
+color: #00BFFF;
+font-family: "Georgia", Georgia, serif;
+font-size: 150%;
+}
+h2 {
+color: #FF6347;
+font-family: "Georgia", Georgia, serif;
+font-size: 125%;
+}
+.pos_fixed {
+position: fixed
+top: 30px
+right: 5px;
+}
+h3 {
+text-decoration: underline;
+text-transform: uppercase;
+}
+body {
+font-family: Arial, Helvetica, sans-serif;
+width: 800px;
+}
+a:link {
+text-decoration: none
+color: black;
+}
+a:hover {
+text-decoration: underline;
+}
+a:visited{
+color: black;
+}
