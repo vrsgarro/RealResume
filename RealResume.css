@@ -7,11 +7,14 @@ h2 {
 color: #FF6347;
 font-family: "Georgia", Georgia, serif;
 font-size: 125%;
+background-color: #ccc;
 }
 .pos_fixed {
-position: fixed
-top: 30px
+position: fixed;
+top: 21px;
 right: 5px;
+margin: 0;
+padding: 5px;
 }
 h3 {
 text-decoration: underline;
@@ -21,13 +24,10 @@ body {
 font-family: Arial, Helvetica, sans-serif;
 width: 800px;
 }
-a:link {
-text-decoration: none
-color: black;
+a:link, a:visited {
+text-decoration: none;
+color: #FF6347;
 }
 a:hover {
 text-decoration: underline;
-}
-a:visited{
-color: black;
 }

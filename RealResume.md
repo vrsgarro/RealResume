@@ -9,7 +9,7 @@
 
 <h1>Victoria Sgarro</h1>
 
-<h2 class="pos_fixed">(401)258-5625 / vrsgarro@wustl.edu / <a href="http://www.victoriasgarro.com" target="_blank">www.victoriasgarro.com</a></h2>
+<h2 class="pos_fixed">(401)258-5625 / vrsgarro@wustl.edu / <a href=“http://www.victoriasgarro.com” target=“_blank”>www.victoriasgarro.com</a></h2>
 
 <hr>
 
